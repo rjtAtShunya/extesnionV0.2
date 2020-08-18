@@ -1,0 +1,68 @@
+[
+  {
+    "kind": "nav-bar",
+    "value": "BrandName",
+    "id": "nav",
+    "style": "width: 100%; height: 40px; position: fixed;list-style-type: none; margin: -8px; padding: 0; overflow: hidden; background-color: #333; color:white;",
+    "child": [
+      {
+        "kind": "ul",
+        "id": "ul",
+        "value": "",
+        "style": "list-style-type: none; margin: 0; padding: 0; overflow: hidden; background-color: #333;",
+        "child": [
+          {
+            "kind": "li",
+            "id": "li",
+            "value": "",
+            "style": "float: left;",
+            "child": [
+              {
+                "kind": "a",
+                "id": "a",
+                "value": "Home",
+                "style": "display: block; color: white; text-align: center; padding: 14px 16px; text-decoration: none;"
+              }
+            ]
+          },
+          {
+            "kind": "li",
+            "id": "li",
+            "value": "",
+            "style": "float: left;",
+            "child": [
+              {
+                "kind": "a",
+                "id": "a",
+                "value": "News",
+                "style": "display: block; color: white; text-align: center; padding: 14px 16px; text-decoration: none;"
+
+              }
+            ]
+          },
+          {
+            "kind": "li",
+            "id": "li",
+            "value": "",
+            "style": "float: left;",
+            "child": [
+              {
+                "kind": "a",
+                "id": "a",
+                "value": "Contact",
+                "style": "display: block; color: white; text-align: center; padding: 14px 16px; text-decoration: none;"
+
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "kind": "box",
+    "value": "xxox",
+    "id": "xox",
+    "style": "width: 100%; height: 40px; position: absolute; top: 50%;background: blue;list-style-type: none;  color:white;"
+  }
+]
